@@ -1,0 +1,47 @@
+div.searchBar{
+
+}
+div.searchDiv{
+    background-color: #C40000;
+    width: 360px;
+    margin: 50px auto;
+    padding: 1px;
+    height: 40px;
+    display: block;
+}
+
+div.searchDiv input{
+    width: 265px;
+    border: 1px solid transparent;
+    height: 36px;
+    margin: 1px;
+    outline: none;
+}
+
+div.searchDiv button{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: Consolas;
+    background-color: #C40000;
+    border: 1px solid transparent;
+    width: 75px;
+}
+
+div.searchBelow span{
+    color: #999999;
+}
+
+div.searchBelow a{
+    padding: 0px 20px 0px 20px;
+    font-size: 14px;
+    font-family: Consolas;
+}
+
+img.logo{
+    position: absolute;
+    left:320px;
+    top:30px;
+    z-index:-1;
+}
+

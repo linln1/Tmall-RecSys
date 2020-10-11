@@ -1,0 +1,74 @@
+div.simpleSearchDiv{
+    height: 45px;
+    background-color: #C40000;
+    margin: 10px 20px 40px;
+    padding: 1px;
+    display: block;
+    float:right;
+}
+
+div.simpleSearchDiv input{
+    color: #C40000;
+    width: 220px;
+    height: 36px;
+    font-size: 14px;
+    font-family: Consolas;
+    border: 1px solid transparent;
+    margin: 2px;
+    outline: #999999;
+}
+
+img.simpleLogo{
+    position: absolute;
+    left:10px;
+    top:50px;
+    width: 140px;
+    z-index: -1;
+}
+
+div.simpleSearchDiv button{
+    color: white;
+    font-family: Consolas;
+    top: 0px;
+    width: 100px;
+    background-color: #C40000;
+    font-size: 12px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    height: 36px;
+}
+
+div.fastSearchBelow{
+    margin-top: 3px;
+    margin-left:  -20px;
+}
+
+div.fastSearchBelow a{
+    padding: 0px 20px 0px 20px;
+    font-size: 14px;
+}
+
+span{
+    color: #999999;
+}
+
+a{
+    color: #999999;
+    text-decoration: none;
+}
+
+body{
+    font-size: 12px;
+    font-family: Consolas;
+}
+
+a:hover{
+    color: #C40000;
+    text-decoration: none;
+}
+
+div.simpleSearchBar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e7e7e7;
+}
